@@ -1,0 +1,12 @@
+{
+  "name": "sentry-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kanishkthapa/sentry-poc.git",
+  "author": "kanishkthapa <kanishk@betalectic.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@sentry/node": "^7.86.0",
+    "express": "^4.18.2"
+  }
+}
