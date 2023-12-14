@@ -6,7 +6,8 @@
   "author": "kanishkthapa <kanishk@betalectic.com>",
   "license": "MIT",
   "dependencies": {
-    "@sentry/node": "^7.86.0",
+    "@sentry/node": "7.48.0",
+    "@sentry/profiling-node": "1.1.2",
     "express": "^4.18.2"
   }
 }
